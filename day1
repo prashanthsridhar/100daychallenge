@@ -1,3 +1,4 @@
+#input n and n commands and watch it happen
 if __name__ == '__main__':
     N = int(input())
     l=[]
