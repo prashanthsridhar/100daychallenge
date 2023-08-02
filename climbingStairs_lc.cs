@@ -3,7 +3,6 @@ public class Solution
     public int ClimbStairs(int n)
     {
         double count = 1;
-
         for (int i = 1; i < n; i++)
         {
             if ((i * 2) <= n)
