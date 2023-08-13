@@ -19,4 +19,5 @@ public class Solution
         else
             return number * factorial_Recursion(number - 1);
     }
+    
 }
