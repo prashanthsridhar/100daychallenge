@@ -12,6 +12,7 @@ public class Solution
             {
                 maxDif = prices[i] - min;
             }
+            
             if (prices[i] < min)
                 min = prices[i];
         }
