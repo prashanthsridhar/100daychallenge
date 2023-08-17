@@ -16,6 +16,7 @@ public class Solution
             if (prices[i] < min)
                 min = prices[i];
         }
+        
         if (maxDif < 0)
             maxDif = 0;
         return maxDif;
