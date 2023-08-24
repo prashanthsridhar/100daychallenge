@@ -2,7 +2,6 @@ public class Solution {
     public string ReverseWords(string s) {
         String[] strlist = s.Split(" ",
                StringSplitOptions.RemoveEmptyEntries);
-
             string temp = "";
             foreach (String ss in strlist)
             {
