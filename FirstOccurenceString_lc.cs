@@ -20,8 +20,7 @@ public class Solution {
                             nums[j] = nums[j] + nums[i];
                             nums[i] = nums[j] - nums[i];
                             nums[j] = nums[j] - nums[i];
-                        }
-                        
+                        }       
                     }
                 }
                 
