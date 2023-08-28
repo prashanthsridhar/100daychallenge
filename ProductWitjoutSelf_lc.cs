@@ -5,7 +5,6 @@ public class Solution {
             int[] lp=new int[nums.Length];
             int[] rp = new int[nums.Length];
             int[] res = new int[nums.Length];
-
             for (int i=0;i<nums.Length;i++)
             {
                 lp[i] = temp;
