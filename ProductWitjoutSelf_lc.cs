@@ -12,8 +12,7 @@ public class Solution {
 
             }
             for (int i = nums.Length-1; i >=0 ; i--)
-            {
-                
+            {              
                 rp[i] = t1;
                 res[i]= lp[i]*rp[i];
                 t1*=nums[i];
