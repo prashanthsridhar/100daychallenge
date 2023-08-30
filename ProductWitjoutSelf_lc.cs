@@ -9,7 +9,6 @@ public class Solution {
             {
                 lp[i] = temp;
                 temp*=nums[i];
-
             }
             for (int i = nums.Length-1; i >=0 ; i--)
             {              
