@@ -28,6 +28,5 @@ public class Solution {
             p=p.next;
         }
         return head;
-        
     }
 }
