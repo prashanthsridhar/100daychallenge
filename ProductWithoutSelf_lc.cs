@@ -16,7 +16,6 @@ public class Solution {
                 res[i]= lp[i]*rp[i];
                 t1*=nums[i];
             }
-
             return res;
     }
      
